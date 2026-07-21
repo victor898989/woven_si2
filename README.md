@@ -10,6 +10,17 @@ You can download this repository's source code to get an instant PicoGK-ready en
 
 For more information, see the [PicoGK documentation on PicoGK.org](https://picogk.org/doc/)
 
+# MATERIAL [ Plasma Flow Boundary: High Heat Flux q" ]
+ ──────────────────────────────────────────────────────────
+  ░░░░░░░ Sacrificial Layer (1-2 mm) V(x,y,z) Phase-Front
+  ══════════════════════════════════════════════════════════
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+  ▒▒▒▒▒▒▒▒ High-Emittance Ceramic Fiber Matrix ▒▒▒▒▒▒▒▒▒▒▒
+  ▒▒▒▒▒▒▒▒      Structural Core Layer (4 cm)   ▒▒▒▒▒▒▒▒▒▒▒
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+ ──────────────────────────────────────────────────────────
+                     [ Inner Airframe ]
+
 # Running PicoGK
 
 Download this example repository, open in VisualStudio Code, and run the code `Program.cs`.
