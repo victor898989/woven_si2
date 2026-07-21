@@ -18,3 +18,16 @@ The examples are organized into subfolders, according to the their category.
 
 # Monolitic microfibers using lattice/quasicrystals from piko gk
 The microstructure of the UHTC composite no longer relies on adhesively bonded layers. The combination of ZrB₂-SiC-TaSi₂ forms continuous chemical bonds with the carbon-carbon chassis through a linear thermal gradient quasicrystalline microfiber network. This avoids thermal expansion coefficient (TEC) discontinuities, eliminating delamination induced by mechanical stresses during and after periods of maximum combustion and re-entry.
+
+[ Ambient Air / Plasma Interface ]
+      │
+      ▼ (Oxygen Diffusion)
+┌───────────┐  High Viscosity Liquid Flow  ┌───────────┐
+│           │ ───────────►       ◄──────── │           │
+│  Matrix   │  (SiO2 - B2O3 Borosilicate)  │  Matrix   │
+│           │                              │           │
+│           │       ▲              ▲       │           │
+└───────────┴───────┼──────────────┼───────┴───────────┘
+                    │              │
+         [ m-ZrO2 Volume Expansion Compressive Stress ]
+         [         Pins the Crack Tip Spatially       ]
